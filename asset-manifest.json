@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/space-wars/static/css/main.2980f989.css",
-    "main.js": "/space-wars/static/js/main.d424c7a7.js",
-    "static/media/1.svg": "/space-wars/static/media/1.fa79e3c5aaa1e53532ab7c10933b45c2.svg",
-    "static/media/9.svg": "/space-wars/static/media/9.3fad288b5f6586d077d8f8e818b0aafe.svg",
-    "static/media/3.svg": "/space-wars/static/media/3.45ca78455051478b8f3cb00f1800f4bb.svg",
-    "static/media/5.svg": "/space-wars/static/media/5.cd7a45b0a2932f2fa41757bc371dcbb5.svg",
-    "static/media/7.svg": "/space-wars/static/media/7.369c67bba774ca52cfc42d070a25bb52.svg",
-    "static/media/4.svg": "/space-wars/static/media/4.ebd32a7e54577484607a29654188af2f.svg",
-    "static/media/6.svg": "/space-wars/static/media/6.366e98045b3948576d3abb4f6b14f5e5.svg",
-    "static/media/2.svg": "/space-wars/static/media/2.69f7f098416a3bc9946b19a8efd92539.svg",
-    "static/media/8.svg": "/space-wars/static/media/8.09216d05dbb9e458e8bc1b2716c89f2f.svg",
-    "static/media/actionPt.svg": "/space-wars/static/media/actionPt.dfffc360c1046c4172e156f2cef0080f.svg",
-    "static/media/health.svg": "/space-wars/static/media/health.c0ce43fddad5498c52bed6c70d34e25d.svg",
-    "static/media/range.svg": "/space-wars/static/media/range.f51d535d0ca9aa628e7f783bca00e789.svg",
-    "static/media/cross-optimised.svg": "/space-wars/static/media/cross-optimised.c211a8ef489d9db44cba2e955b7aebc4.svg",
-    "index.html": "/space-wars/index.html",
-    "main.2980f989.css.map": "/space-wars/static/css/main.2980f989.css.map",
-    "main.d424c7a7.js.map": "/space-wars/static/js/main.d424c7a7.js.map"
+    "main.css": "/sw-game/static/css/main.2980f989.css",
+    "main.js": "/sw-game/static/js/main.1b1986bf.js",
+    "static/media/1.svg": "/sw-game/static/media/1.fa79e3c5aaa1e53532ab7c10933b45c2.svg",
+    "static/media/9.svg": "/sw-game/static/media/9.3fad288b5f6586d077d8f8e818b0aafe.svg",
+    "static/media/3.svg": "/sw-game/static/media/3.45ca78455051478b8f3cb00f1800f4bb.svg",
+    "static/media/5.svg": "/sw-game/static/media/5.cd7a45b0a2932f2fa41757bc371dcbb5.svg",
+    "static/media/7.svg": "/sw-game/static/media/7.369c67bba774ca52cfc42d070a25bb52.svg",
+    "static/media/4.svg": "/sw-game/static/media/4.ebd32a7e54577484607a29654188af2f.svg",
+    "static/media/6.svg": "/sw-game/static/media/6.366e98045b3948576d3abb4f6b14f5e5.svg",
+    "static/media/2.svg": "/sw-game/static/media/2.69f7f098416a3bc9946b19a8efd92539.svg",
+    "static/media/8.svg": "/sw-game/static/media/8.09216d05dbb9e458e8bc1b2716c89f2f.svg",
+    "static/media/actionPt.svg": "/sw-game/static/media/actionPt.dfffc360c1046c4172e156f2cef0080f.svg",
+    "static/media/health.svg": "/sw-game/static/media/health.c0ce43fddad5498c52bed6c70d34e25d.svg",
+    "static/media/range.svg": "/sw-game/static/media/range.f51d535d0ca9aa628e7f783bca00e789.svg",
+    "static/media/cross-optimised.svg": "/sw-game/static/media/cross-optimised.c211a8ef489d9db44cba2e955b7aebc4.svg",
+    "index.html": "/sw-game/index.html",
+    "main.2980f989.css.map": "/sw-game/static/css/main.2980f989.css.map",
+    "main.1b1986bf.js.map": "/sw-game/static/js/main.1b1986bf.js.map"
   },
   "entrypoints": [
     "static/css/main.2980f989.css",
-    "static/js/main.d424c7a7.js"
+    "static/js/main.1b1986bf.js"
   ]
 }
