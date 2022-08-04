@@ -111,10 +111,11 @@ export default async function loadFullState() {
     ...(await gameContract.getState({
       // !!! Wallet like Metamask will do gas fee estimation but it is both unnecesarry for read-only functions,
       // and will throw for "Transaction run out of gas". So just hard-code it here.
-      gasLimit: "999999999999999",
+      gasLimit: 10000000,
       blockTag: currBlockNum,
     })),
   };
+  console.log('Loaded rawGameState:', rawGameState);
   // Add owner details & playfieldSize to rawGameState
   let tokenIdToOwner = {};
   let playfieldSize;

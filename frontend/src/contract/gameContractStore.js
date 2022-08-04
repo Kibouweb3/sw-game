@@ -46,13 +46,14 @@ const gameContractStore = (function () {
     return _contract;
   }
 
-  function getBaseFee() {
-    return (await provider.getFeeData()).maxFeePerGas;
+  async function getBaseFee() {
+    return (await _provider.getFeeData()).maxFeePerGas;
   }
 
   return {
     init,
     getContract,
+    getBaseFee,
     BLOCK_CONFIRMATIONS,
   };
 })();
